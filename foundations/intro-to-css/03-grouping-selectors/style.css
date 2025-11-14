@@ -1,1 +1,12 @@
-/* Add CSS Styling */
+.black,
+.yell {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+.black {
+    color: white;
+    background-color: black;
+}
+.yell {
+    background-color: yellow;
+}
