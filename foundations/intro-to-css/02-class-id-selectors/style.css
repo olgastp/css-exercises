@@ -1,1 +1,17 @@
-/* Add CSS Styling */
+.class,
+.cooler.class {
+    background-color: #f59ac3;
+    font-family: Verdana, DejaVu, sans-serif
+}
+#one {
+   color: blue; 
+   font-size: 36px;
+}
+.cooler.class {
+    font-size: 24px;
+}
+#another {
+    background-color: #9af5ab;
+    font-size: 24px;
+    font-weight: bold;
+}
